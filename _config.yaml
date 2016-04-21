@@ -1,0 +1,14 @@
+# Site settings
+title: Check Website
+email: nils@windisch.me
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+safe: true
+
+exclude: [Gemfile, Gemfile.lock, node_modules, package.json, readme.md, LICENSE]
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
