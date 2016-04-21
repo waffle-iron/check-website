@@ -1,0 +1,154 @@
+- name: A-Tester
+  url: http://www.evaluera.co.uk/atester
+  tags: [Accessibility, WCAG]
+  description: "A-Tester: Evaluera's free web accessibility tool..."
+
+- name: AccessLint
+  url: http://accesslint.com/results?commit=Analyze&url=
+  tags: [Accessibility, ARIA]
+  addLink: true
+  description: Keep accessibility issues in check
+
+- name: Check My colors
+  url: http://www.checkmycolours.com
+  tags: [Accessibility, Color]
+  description: It is a tool for checking foreground and background color combinations of all DOM elements and determining if they provide sufficient contrast when viewed by someone having color deficits.
+
+- name: Colorblind Web Page Filter
+  url: http://colorfilter.wickline.org/?a=1;r=;l=0;j=1;t=p;u=
+  description: Use the colorblind colorlab to select safe colors earlier in the design process.
+  tags: [Accessibility, Color]
+  addLink: true
+
+- name: cynthiasays
+  url: http://www.cynthiasays.com/
+  description: Welcome to the Cryptzone® Cynthia Says™ Portal
+  tags: [Accessibility, WCAG, Section 508]
+
+- name: eAccessibility
+  url: http://checkers.eiii.eu/en/pagecheck/?url=
+  description: Check the Accessibility of a Web Page
+  tags: [Accessibility, WCAG]
+  addLink: true
+
+- name: Feed Validator
+  url: http://www.feedvalidator.org/check.cgi?url=
+  description: for Atom and RSS and KML
+  tags: [RSS, Atom, Validator]
+  addLink: true
+
+- name: Functional Accessibility Evaluator
+  url: http://fae20.cita.illinois.edu
+  description: A project of the Open Accessibility Alliance and OpenAjax Accessibility Task Force
+  tags: [HTML, ARIA, Accessibility]
+
+- name: Google Page Speed Insights
+  url: https://developers.google.com/speed/pagespeed/insights/?url=
+  tags: [Performance]
+  description: Make your web pages fast on all devices.
+  addLink: true
+
+- name: Google Structured Data Testing
+  url: https://developers.google.com/structured-data/testing-tool?url=
+  tags: [Data, Validator]
+  description: 
+  addLink: true
+
+- name: iWebTool Link Checker
+  url: http://iwebtool.com/broken_link_checker?url=
+  tags: [Link, Validator]
+  description: Use this tool to check for Broken Links on a website. Broken links are links that lead nowhere
+  addLink: true
+
+- name: Microsoft Browser Screenshots
+  url: https://developer.microsoft.com/en-us/microsoft-edge/tools/screenshots/#
+  description: See how your site renders across a selection of common browsers and devices.
+  tags: [Screenshots]
+  addLink: true
+
+- name: Microsoft Browser Testing Report
+  url: https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan/?url=
+  tags: [Accessibility]
+  description: Run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility
+  addLink: true
+
+- name: PowerMapper
+  url: http://www.powermapper.com/products/sortsite/ads/acc-accessibility-testing/
+  tags: [Accessibility, WCAG, Section 508]
+  description: Audit an entire site for compliance with web accessibility standards without the grind of manual testing.
+
+- name: REDbot
+  url: https://redbot.org/?uri=
+  tags: [HTTP, Performance]
+  description: RED checks HTTP resources to see how they use HTTP, makes suggestions, and finds common protocol mistakes.
+  addLink: true
+
+- name: StyleStats
+  url: http://www.stylestats.org
+  tags: [CSS, Validator]
+  description: An evaluating tool for writing better CSS
+
+- name: tenio.io
+  url: https://tenon.io/testNow.php?url=
+  description: Tenon.io can identify 508 and WCAG 2.0 issues in any environment.
+  tags: [WCAG, Section 508, Accessibility]
+  addLink: true
+
+- name: Twitter Card Validator
+  url: https://cards-dev.twitter.com/validator
+  description: 
+  tags: [Twitter, Validator]
+  notes: [login required]
+
+- name: Validome HTML Validator
+  url: http://www.validome.org/validate/?uri=
+  tags: [HTML, Validator]
+  description: Validome allows Web Publishers to check their syntax with a reliable, high-speed validation service, in accordance to current official Standards.
+  addLink: true
+
+- name: Validome Sitemap Validator
+  url: http://www.validome.org/google/validate?lang=en&googleTyp=SITEMAP&url=
+  tags: [Sitemap, Validator]
+  description: Provides validation of your Google Sitemap and Sitemap for Sitemaps.
+  addLink: true
+
+- name: Web Accessibility Checker
+  url: http://achecker.ca/checker/index.php
+  tags: [Accessibility, WCAG, Section 508]
+  description: This tool checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone.
+
+- name: W3C CSS Validation
+  url: https://jigsaw.w3.org/css-validator/validator?profile=css3&usermedium=all&warning=1&vextwarning=&lang=en&uri=
+  tags: [CSS, Validator]
+  description: Check Cascading Style Sheets (CSS) and (X)HTML documents with style sheets
+  addLink: true
+
+- name: W3C HTML Validator
+  url: https://validator.w3.org/checklink?hide_type=all&depth=&check=Check&uri=
+  description: Check the markup (HTML, XHTML, …) of Web documents.
+  tags: [HTML, Validator]
+  addLink: true
+
+- name: W3C Internationalization Checker
+  url: https://validator.w3.org/i18n-checker/check?uri=
+  tags: [I18N]
+  description: Is your page world ready?
+  addLink: true
+
+- name: W3C Link Checker
+  url: https://validator.w3.org/checklink?hide_type=all&depth=&check=Check&uri=
+  description: Lorem ipsum dolor sit amut.
+  tags: [Link, Validator]
+  addLink: true
+
+- name: W3C Mobile OK
+  url: https://validator.w3.org/mobile/check?async=true&docAddr=
+  description: Is your Web site mobile-friendly?
+  tags: [Mobile]
+  addLink: true
+
+- name: W3C Nu HTML Checker
+  url: https://validator.w3.org/nu/?doc=
+  tags: [HTML, Validator]
+  description: This tool is an ongoing experiment in better HTML checking, and its behavior remains subject to change
+  addLink: true
