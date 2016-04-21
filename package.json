@@ -1,0 +1,12 @@
+{
+  "name": "check-website",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Nils Windisch <nils@windisch.me>",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "spectre.css": "^0.1.10"
+  }
+}
