@@ -1,0 +1,12 @@
+.wrap {
+	width: 600px;
+	margin: 0 auto;
+}
+
+.card {
+	flex-grow: 1;
+	flex-shrink: 1;
+	width: 290px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
