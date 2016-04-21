@@ -73,3 +73,14 @@ layout: default
       </div>
   {% endfor %}
 </div>
+
+<div class="columns">
+  <div class="column col-12">
+    <h2>Misc</h2>
+    <p>For requests and/or comments <a href="https://github.com/nilswindisch/check-website/issues?utf8=✓&q=is%3Aissue+">open an issue at GitHub</a> or <a href="https://twitter.com/nilswindisch">send a tweet @nilswindisch</a>.</p>
+    <h3>Version History</h3>
+    <ul>
+      <li>1.0.0 - Initial</li>
+    </ul>
+  </div>
+</div>
